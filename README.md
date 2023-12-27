@@ -27,6 +27,8 @@ This script reads a CSV file containing email data and sends an email for each r
    ```bash
    pip install -r requirements.txt
 
+5. Run the script using the command `python main.py`.
+
 ## CSV File Structure
 
 The CSV file should have the following columns:
